@@ -5,7 +5,7 @@ pip install numpy==1.17.3
 pip install cv2==3.4.3.18  
 # 运行
 ```
-main.py
+python main.py
 ```
 💾首次使用：LOAD = False  
 🚨随后若中途出现问题需要从新运行时，需先运行get_processed_books_name.py以避免重复处理。随后将LOAD置为True  
